@@ -1,0 +1,4 @@
+-A certain temperature must be maintained.
+-system must know 2 things-
+    -error, deviation from ideal value
+    -the rate at which the error is changing
